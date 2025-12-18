@@ -1,0 +1,5 @@
+[settings]
+description = "Polyglot PS1 provided by Agkozak"
+remote = { url = "git@github.com:agkozak/polyglot.git", branch = "cluster" }
+work_tree_alias = "$HOME/.local/share"
+include = ["polyglot.sh"]
